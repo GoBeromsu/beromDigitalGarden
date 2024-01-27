@@ -1,5 +1,5 @@
 ---
-{"tags":["gardenEntry"],"aliases":["📚 043 Digital Garden","Digital Garden"],"link":null,"up":null,"persona":null,"index":null,"date_created":"2023-10-21","date_modified":"2024-01-27","dg-publish":true,"dg-home":true,"cssclasses":["digitalGarden"],"permalink":"/atlas/maps/the-berom/","contentClasses":"digitalGarden","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-17T14:36:40.487+09:00","updated":"2024-01-27T18:17:42.084+09:00"}
+{"tags":["gardenEntry"],"aliases":["📚 043 Digital Garden","Digital Garden"],"link":null,"up":null,"persona":null,"index":null,"date_created":"2023-10-21","date_modified":"2024-01-27","dg-publish":true,"dg-home":true,"cssclasses":["cards"],"permalink":"/atlas/maps/the-berom/","contentClasses":"cards","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-17T14:36:40.487+09:00","updated":"2024-01-27T18:26:02.374+09:00"}
 ---
 
 # Berom
