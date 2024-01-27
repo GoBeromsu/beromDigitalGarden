@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/encounters/suyorukun/","tags":["유튜브"]}
+{"tags":["유튜브"],"aliases":null,"link":null,"up":null,"persona":null,"index":null,"date_created":"2023-12-25","date_modified":"2023-12-25","dg-publish":true,"permalink":"/encounters/suyorukun/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-25T01:40:21.801+09:00","updated":"2024-01-27T11:58:42.641+09:00"}
 ---
 
 # Suyorukun
