@@ -1,14 +1,18 @@
 ---
-{"tags":["gardenEntry"],"aliases":["📚 043 Digital Garden","Digital Garden"],"link":null,"up":null,"persona":null,"index":null,"date_created":"2023-10-21","date_modified":"2023-12-12","dg-publish":true,"dg-home":true,"dg-enable-search":"true","permalink":"/atlas/maps/the-berom/","dgEnableSearch":"true","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-17T14:36:40.487+09:00","updated":"2024-01-27T17:16:17.997+09:00"}
+{"tags":["gardenEntry"],"aliases":["📚 043 Digital Garden","Digital Garden"],"link":null,"up":null,"persona":null,"index":null,"date_created":"2023-10-21","date_modified":"2024-01-27","dg-publish":true,"dg-home":true,"dg-enable-search":"true","permalink":"/atlas/maps/the-berom/","dgEnableSearch":"true","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-17T14:36:40.487+09:00","updated":"2024-01-27T17:29:13.450+09:00"}
 ---
 
 # Berom
+> 
+
+I’m a full-stack developer based in South Korea, passionate about creating digital services and products that align with my vision.
+I aspire to solve real-world problems using my programming skills
+I dream of living a life where I create exciting and inspiring things that resonate with my passion.
 
 
 ## Work
 
 ## Bio
-
-|  |  |
-| --- | --- |
-| **1999** | Born in Yeosu, Korea |
+- **1999** Born in Yeosu, Korea
+- **2018** ~ing Chonnam National University
+	- major : Software Engineering
