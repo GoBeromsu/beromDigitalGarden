@@ -1,11 +1,11 @@
 ---
-{"tags":["gardenEntry"],"aliases":["📚 043 Digital Garden","Digital Garden"],"link":null,"up":null,"persona":null,"index":null,"date_created":"2023-10-21","date_modified":"2024-01-27","dg-publish":true,"dg-home":true,"dg-enable-search":"true","permalink":"/atlas/maps/the-berom/","dgEnableSearch":"true","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-17T14:36:40.487+09:00","updated":"2024-01-27T17:43:34.900+09:00"}
+{"tags":["gardenEntry"],"aliases":["📚 043 Digital Garden","Digital Garden"],"link":null,"up":null,"persona":null,"index":null,"date_created":"2023-10-21","date_modified":"2024-01-27","dg-publish":true,"dg-home":true,"dg-enable-search":"true","permalink":"/atlas/maps/the-berom/","dgEnableSearch":"true","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-17T14:36:40.487+09:00","updated":"2024-01-27T17:53:29.209+09:00"}
 ---
 
 # Berom
 > Developer / Writer
 
-![me_guitar.jpeg|300](/img/user/Atlas/Utils/_attachments/me_guitar.jpeg)
+![|300](/img/user/Atlas/Utils/_attachments/me_guitar.jpeg)
 ## Work
 I’m a full-stack developer based in South Korea, passionate about creating digital services and products that align with my vision.
 I aspire to solve real-world problems using my programming skills
