@@ -1,5 +1,5 @@
 ---
-{"tags":null,"aliases":null,"link":null,"up":null,"persona":null,"index":null,"date_created":"2024-02-01","date_modified":"2024-02-01","tistoryBlogName":"berom","tistoryTitle":"광주 지구 CCC PA 구성","tistoryVisibility":3,"tistoryCategory":1094205,"tistorySkipModal":true,"tistoryPostId":562,"tistoryPostUrl":"https://berom.tistory.com/562","dg-publish":true,"permalink":"/encounters/ccc-pa/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-01T15:12:48.036+09:00","updated":"2024-02-01T17:17:32.286+09:00"}
+{"tags":null,"aliases":null,"link":null,"up":null,"persona":null,"index":null,"date_created":"2024-02-01","date_modified":"2024-02-01","tistoryBlogName":"berom","tistoryTitle":"광주 지구 CCC PA 구성","tistoryVisibility":3,"tistoryCategory":1094205,"tistorySkipModal":true,"tistoryPostId":562,"tistoryPostUrl":"https://berom.tistory.com/562","dg-publish":true,"permalink":"/encounters/ccc-pa/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-01T15:12:48.036+09:00","updated":"2024-02-01T17:18:36.834+09:00"}
 ---
 
 # 광주 지구 CCC PA 구성
@@ -31,6 +31,7 @@
 ## Speaker 배치
 > 각 스피커 위치는 현장 상황에 따라 바뀔 수 있음
 ### Main Speaker
+
 ```mermaid
 graph TD
     stage("무대 중심") -->|70°-80° 각도| speakerLeft("Pola12 스피커 왼쪽")
