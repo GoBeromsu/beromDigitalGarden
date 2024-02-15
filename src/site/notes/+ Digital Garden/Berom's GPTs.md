@@ -1,5 +1,5 @@
 ---
-{"tags":["AI/GPT"],"aliases":null,"link":null,"up":null,"persona":null,"index":null,"date_created":"2024-02-15","date_modified":"2024-02-15","dg-publish":true,"permalink":"/digital-garden/berom-s-gp-ts/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-15T16:44:43.686+09:00","updated":"2024-02-15T20:14:14.044+09:00"}
+{"tags":["AI/GPT"],"aliases":null,"link":null,"up":null,"persona":null,"index":null,"date_created":"2024-02-15","date_modified":"2024-02-15","dg-publish":true,"dg-path":"Home/Berom's GPTs.md","permalink":"/home/berom-s-gp-ts/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-15T16:44:43.686+09:00","updated":"2024-02-15T20:14:14.044+09:00"}
 ---
 
 # Berom's GPTs
