@@ -1,12 +1,13 @@
 ---
-{"tags":["AI/GPT"],"aliases":null,"link":null,"up":null,"persona":null,"index":null,"date_created":"2024-02-15","date_modified":"2024-02-15","dg-publish":true,"dg-path":"Home/Berom's GPTs.md","permalink":"/home/berom-s-gp-ts/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-15T16:44:43.686+09:00","updated":"2024-02-15T20:14:14.044+09:00"}
+{"tags":["AI/GPT"],"aliases":null,"link":null,"up":null,"persona":null,"index":null,"date_created":"2024-02-15","date_modified":"2024-02-15","dg-publish":true,"permalink":"/digital-garden/berom-s-gp-ts/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-15T16:44:43.686+09:00","updated":"2024-02-22T15:07:40.524+09:00"}
 ---
 
 # Berom's GPTs
-## Expert Programmer
-![|400](https://i.imgur.com/biHOTrI.png)
+![](https://i.imgur.com/gUXNBzt.png)
 
-Expert Programmer v0.0.3 is a special GPT version designed to help with software development.
+## Expert Programmer
+
+Expert Programmer is designed to help with software development.
 It clarifies questions and guides through coding, debugging, and refining processes using easy communication and emojis.
 
 - link : https://chat.openai.com/g/g-Lngx7kaZ3-expert-programmer
@@ -18,3 +19,8 @@ It clarifies questions and guides through coding, debugging, and refining proces
 ## Expert Tech Writer
 
 - link : https://chat.openai.com/g/g-ovGWxmQ4g-expert-tech-writer
+- **`Key Features`**
+	- **Clear Structure:** Breaks down complex info into easy-to-follow outlines. 🗂️
+	- **Detail-Oriented:** Dives deep into topics to cover every angle. 🔍
+	- **Markdown Whiz:** Uses markdown to make documents not just readable, but visually appealing. ✨
+	- **Guide on the Side:** Offers next steps to deepen your understanding or apply what you've learned. 🛤️
