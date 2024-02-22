@@ -1,5 +1,5 @@
 ---
-{"tags":["Electron","Framework","Programming","CrossPlatform","WebTechnologies","개발/프로젝트"],"aliases":["일렉트론","⚙️ Electron"],"link":null,"up":null,"persona":null,"index":null,"date_created":"2023-12-30","date_modified":"2024-02-22","dg-publish":true,"permalink":"/digital-garden/development/electron/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-30T23:43:50.295+09:00","updated":"2024-02-22T14:48:51.292+09:00"}
+{"tags":["Electron","Framework","Programming","CrossPlatform","WebTechnologies","개발/프로젝트"],"aliases":"일렉트론,⚙️ Electron","link":null,"up":null,"persona":null,"index":null,"date_created":"2023-12-30","date_modified":"2024-02-22","dg-publish":true,"permalink":"/digital-garden/development/electron/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-30T23:43:50.295+09:00","updated":"2024-02-22T14:51:22.966+09:00"}
 ---
 
 # ⚙️ Electron
