@@ -190,30 +190,30 @@ body {
     }
   }
 
-  /* Obsidian 마크다운 편집기 내 특정 요소 스타일 */
-  .cm-s-obsidian > *[id] {
-    position: relative;
-    cursor: pointer;
-    &:hover {
-      border: 1px dotted;
-      border-color: var(--text-accent);
-      margin-left: -10px;
-      margin-right: -10px;
-      padding: 10px;
-    }
-    &:hover::before {
-      content: "더블클릭으로 링크 복사";
-      position: absolute;
-      right: 0;
-      top: -1.55em;
-      font-weight: normal;
-      font-size: 12px;
-      color: var(--text-accent);
-      font-variant: initial;
-      letter-spacing: 0.24px;
-      line-height: 14px;
-    }
-  }
+  // /* Obsidian 마크다운 편집기 내 특정 요소 스타일 */
+  // .cm-s-obsidian > *[id] {
+  //   position: relative;
+  //   cursor: pointer;
+  //   &:hover {
+  //     border: 1px dotted;
+  //     border-color: var(--text-accent);
+  //     margin-left: -10px;
+  //     margin-right: -10px;
+  //     padding: 10px;
+  //   }
+  //   &:hover::before {
+  //     content: "더블클릭으로 링크 복사";
+  //     position: absolute;
+  //     right: 0;
+  //     top: -1.55em;
+  //     font-weight: normal;
+  //     font-size: 12px;
+  //     color: var(--text-accent);
+  //     font-variant: initial;
+  //     letter-spacing: 0.24px;
+  //     line-height: 14px;
+  //   }
+  // }
 
   /* 참조된 요소 스타일 */
   .referred {
