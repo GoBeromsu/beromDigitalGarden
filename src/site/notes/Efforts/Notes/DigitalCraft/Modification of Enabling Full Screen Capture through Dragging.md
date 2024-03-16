@@ -1,25 +1,5 @@
 ---
-<<<<<<< Updated upstream
 {"aliases":"J - 드래그로 화면 전체 캡처하도록 수정","persona":null,"tags":null,"link":null,"date_created":"2024-01-26","date_modified":"2024-02-05","status":"done","dg-publish":true,"index":["[[🏷 Project_Notes]]"],"up":"[[TextShot]]","permalink":"/efforts/notes/digital-craft/modification-of-enabling-full-screen-capture-through-dragging/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-01-26T18:09:43.751+09:00","updated":"2024-03-16T19:47:52.212+09:00"}
-=======
-{
-  "aliases": "J - 드래그로 화면 전체 캡처하도록 수정",
-  "persona": null,
-  "tags": null,
-  "link": null,
-  "date_created": "2024-01-26",
-  "date_modified": "2024-02-05",
-  "status": "done",
-  "dg-publish": true,
-  "index": ["[[🏷 Project_Notes]]"],
-  "up": "[[TextShot]]",
-  "permalink": "/efforts/notes/digital-craft/modification-of-enabling-full-screen-capture-through-dragging/",
-  "dgPassFrontmatter": true,
-  "noteIcon": "1",
-  "created": "2024-01-26T18:09:43.751+09:00",
-  "updated": "2024-03-16T19:21:04.290+09:00",
-}
->>>>>>> Stashed changes
 ---
 
 # J - 드래그로 화면 전체 캡처하도록 수정
