@@ -1,5 +1,5 @@
 ---
-{"tistoryBlogName":"berom","tistoryTitle":"Electron에서 시스템 클립보드 사용하기","tistoryTags":"electron","tistoryVisibility":3,"tistoryCategory":1071006,"tistorySkipModal":true,"tistoryPostId":573,"tistoryPostUrl":"https://berom.tistory.com/573","tags":["Electron"],"dg-publish":true,"permalink":"/encounters/electron/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-09T14:06:11.074+09:00","updated":"2024-03-16T19:20:04.422+09:00"}
+{"tistoryBlogName":"berom","tistoryTitle":"Electron에서 시스템 클립보드 사용하기","tistoryTags":"electron","tistoryVisibility":"3","tistoryCategory":"1071006","tistorySkipModal":true,"tistoryPostId":"573","tistoryPostUrl":"https://berom.tistory.com/573","tags":["Electron"],"dg-publish":true,"permalink":"/encounters/electron/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-09T14:06:11.074+09:00","updated":"2024-03-16T19:28:24.419+09:00"}
 ---
 
 # Electron에서 시스템 클립보드 사용하기
