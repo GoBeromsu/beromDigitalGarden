@@ -1,5 +1,5 @@
 ---
-{"related":null,"tags":["Electron","Framework","Programming","CrossPlatform","WebTechnologies","개발/프로젝트"],"aliases":"일렉트론,⚙️ Electron","link":null,"up":null,"persona":null,"index":null,"date_created":"2023-12-30","date_modified":"2024-03-16","dg-publish":true,"dg-path":"MOC/Electron.md","permalink":"/moc/electron/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-30T23:43:50.295+09:00","updated":"2024-03-16T19:19:47.249+09:00"}
+{"related":null,"tags":["Electron","Framework","Programming","CrossPlatform","WebTechnologies","개발/프로젝트"],"aliases":"일렉트론,⚙️ Electron","link":null,"up":null,"persona":null,"index":null,"date_created":"2023-12-30","date_modified":"2024-03-16","dg-publish":true,"dg-path":"MOC/Electron.md","permalink":"/moc/electron/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-30T23:43:50.295+09:00","updated":"2024-03-16T19:30:35.001+09:00"}
 ---
 
 # ⚙️ Electron
@@ -54,13 +54,13 @@ graph TD
 - [Electron 한글 문서](https://tinydew4.gitbooks.io/electron-ko/content/?q=)
 - [[+ Encounters/Crafting a Robust WindowManager in Electron Enhancing App Architecture\|Crafting a Robust WindowManager in Electron Enhancing App Architecture]]
 - [[Atlas/Ideas/📜 Reddit - Has Anyone Successfully Monetized a Solo Developed Electron App?\|📜 Reddit - Has Anyone Successfully Monetized a Solo Developed Electron App?]]
-- [[+ Encounters/Electron으로 다중 모니터 화면 캡처 - 사용자 선택 영역 정확하게 캡처하는 방법\|Electron으로 다중 모니터 화면 캡처 - 사용자 선택 영역 정확하게 캡처하는 방법]]
+- [[+ Encounters/Utilizing Electron for Precise Multi-Monitor Screen Capture A Guide to Accurate User Selection Area Capture\|Utilizing Electron for Precise Multi-Monitor Screen Capture A Guide to Accurate User Selection Area Capture]]
 - [[+ Encounters/Communicating Between Main and Renderer Processes in Electron\|Communicating Between Main and Renderer Processes in Electron]]
 - [[+ Encounters/Electron Cannot find module 'module-alias register'\|Electron Cannot find module 'module-alias register']]
 - [[Efforts/Notes/DigitalCraft/Electron 앱 build 중 Application entry file 이슈 해결\|Electron 앱 build 중 Application entry file 이슈 해결]]
 - [[+ Encounters/Electron 컴포넌트 link로 이동 시킨 후 캡처 안되는 이유\|Electron 컴포넌트 link로 이동 시킨 후 캡처 안되는 이유]]
-- [[+ Encounters/Electron에서 시스템 클립보드 사용하기\|Electron에서 시스템 클립보드 사용하기]]
-- [[+ Encounters/Electron 리액트에서 페이지를 구성 할 때 마다 윈도우를 생성하는게 맞는가\|Electron 리액트에서 페이지를 구성 할 때 마다 윈도우를 생성하는게 맞는가]]
+- [[+ Encounters/Using System Clipboard in Electron A Guide from Berom's Tistory Blog\|Using System Clipboard in Electron A Guide from Berom's Tistory Blog]]
+- [[+ Encounters/Understanding Window Creation for Each Page in Electron React Applications\|Understanding Window Creation for Each Page in Electron React Applications]]
 - [[Efforts/Notes/DigitalCraft/Electron  개발환경에서 캡처가 되지 않았던 이유\|Electron  개발환경에서 캡처가 되지 않았던 이유]]
 - [[Atlas/Ideas/Electron에서 원본 해상도의 고화질 화면 캡처 얻는 방법\|Electron에서 원본 해상도의 고화질 화면 캡처 얻는 방법]]
 - [[Atlas/Ideas/Electron - Yarn 기반의 javascript 기본 설정과 파일 구성\|Electron - Yarn 기반의 javascript 기본 설정과 파일 구성]]
