@@ -15,6 +15,16 @@ const {
 } = require("./src/helpers/userSetup");
 
 const Image = require("@11ty/eleventy-img");
+/**
+ * 이미지를 변환하고 메타데이터를 반환하는 함수입니다.
+ *
+ * @param {string} src - 변환할 이미지의 소스 경로입니다.
+ * @param {string} cls - 이미지에 적용할 CSS 클래스입니다.
+ * @param {string} alt - 이미지의 대체 텍스트입니다.
+ * @param {string} sizes - 이미지의 크기를 지정하는 속성입니다.
+ * @param {string[]} widths - 생성할 이미지의 너비 배열입니다. 기본값은 ["500", "700", "auto"]입니다.
+ * @returns {object} - 이미지 변환 후 생성된 메타데이터 객체입니다.
+ */
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   let options = {
     widths: widths,
