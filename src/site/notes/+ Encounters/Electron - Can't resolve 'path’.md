@@ -1,5 +1,5 @@
 ---
-{"tags":null,"aliases":null,"link":null,"up":null,"persona":null,"index":null,"date_created":"2024-01-26","date_modified":"2024-01-29","dg-publish":true,"permalink":"/encounters/electron-can-t-resolve-path/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-01-26T17:57:36.007+09:00","updated":"2024-03-16T19:19:20.808+09:00"}
+{"tags":null,"aliases":null,"link":null,"up":null,"persona":null,"index":null,"date_created":"2024-01-26","date_modified":"2024-01-29","dg-publish":true,"permalink":"/encounters/electron-can-t-resolve-path/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-01-26T17:57:36.007+09:00","updated":"2024-03-16T19:38:31.979+09:00"}
 ---
 
 # Electron - Can't Resolve 'path’
@@ -9,7 +9,7 @@
 ## 해결 방법
 
 - yarn add path-browserify @types/path-browserify
-- [[Efforts/Notes/DigitalCraft/전체 화면 드래그 캡처 기능 개선을 위한 Electron 활용\|전체 화면 드래그 캡처 기능 개선을 위한 Electron 활용]]
+- [[Efforts/Notes/DigitalCraft/Modification of Enabling Full Screen Capture through Dragging\|Modification of Enabling Full Screen Capture through Dragging]]
 
 
 ```js
