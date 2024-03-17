@@ -1,5 +1,5 @@
 ---
-{"tags":["JavaScript"],"aliases":null,"link":null,"up":null,"persona":null,"index":null,"related":null,"date_created":"2024-03-17","date_modified":"2024-03-17","dg-publish":true,"permalink":"/efforts/notes/digital-craft/javascript-convention-rule/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-03-17T14:31:51.741+09:00","updated":"2024-03-17T14:32:27.848+09:00"}
+{"tags":["JavaScript"],"aliases":null,"link":null,"up":null,"persona":null,"index":null,"related":null,"date_created":"2024-03-17","date_modified":"2024-03-17","dg-publish":true,"permalink":"/efforts/notes/digital-craft/javascript-convention-rule/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-03-17T14:31:51.741+09:00","updated":"2024-03-17T14:32:37.691+09:00"}
 ---
 
 # Javascript Convention Rule
@@ -32,7 +32,7 @@
      this.firstName = 'Panda';
 ```
 
-- **this**를 변수의 값으로 사용하지 않는다. 필요하다면 **화살표 함수(Arrow Function)**이나 **바인딩**을 사용하라.
+- **this**를 변수의 값으로 사용하지 않는다. 필요하다면 **화살표 함수(Arrow Function)** 이나 **바인딩**을 사용하라.
 
 ```javascript
 // bad
