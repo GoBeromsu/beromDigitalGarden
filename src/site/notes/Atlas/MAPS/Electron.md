@@ -1,5 +1,5 @@
 ---
-{"related":null,"tags":["Electron","Framework","Programming","CrossPlatform","WebTechnologies","개발/프로젝트"],"aliases":"일렉트론,⚙️ Electron","link":null,"up":null,"persona":null,"index":null,"date_created":"2023-12-30","date_modified":"2024-03-16","dg-publish":true,"dg-path":"MOC/Electron.md","permalink":"/moc/electron/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-30T23:43:50.295+09:00","updated":"2024-03-16T19:30:35.001+09:00"}
+{"related":null,"tags":["Electron","Framework","Programming","CrossPlatform","WebTechnologies","개발/프로젝트"],"aliases":"일렉트론,⚙️ Electron","link":null,"up":null,"persona":null,"index":null,"date_created":"2023-12-30","date_modified":"2024-03-16","dg-publish":true,"dg-path":"MOC/Electron.md","permalink":"/moc/electron/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-30T23:43:50.295+09:00","updated":"2024-03-16T19:38:32.320+09:00"}
 ---
 
 # ⚙️ Electron
@@ -62,14 +62,14 @@ graph TD
 - [[+ Encounters/Using System Clipboard in Electron A Guide from Berom's Tistory Blog\|Using System Clipboard in Electron A Guide from Berom's Tistory Blog]]
 - [[+ Encounters/Understanding Window Creation for Each Page in Electron React Applications\|Understanding Window Creation for Each Page in Electron React Applications]]
 - [[Efforts/Notes/DigitalCraft/Electron  개발환경에서 캡처가 되지 않았던 이유\|Electron  개발환경에서 캡처가 되지 않았던 이유]]
-- [[Atlas/Ideas/Electron에서 원본 해상도의 고화질 화면 캡처 얻는 방법\|Electron에서 원본 해상도의 고화질 화면 캡처 얻는 방법]]
+- [[Atlas/Ideas/Implementing Full Screen Capture Feature in PixelScriber Using Electron\|Implementing Full Screen Capture Feature in PixelScriber Using Electron]]
 - [[Atlas/Ideas/Electron - Yarn 기반의 javascript 기본 설정과 파일 구성\|Electron - Yarn 기반의 javascript 기본 설정과 파일 구성]]
 - [[+ Encounters/React 프로젝트가 로딩 되기 전에 Electron이 구동 되어 버릴 때 해결 방법\|React 프로젝트가 로딩 되기 전에 Electron이 구동 되어 버릴 때 해결 방법]]
 - [[+ Encounters/Electron에서 TypeScript 경로 별칭 설정하기\|Electron에서 TypeScript 경로 별칭 설정하기]]
 - [[+ Encounters/Electron Browser Window 숨기는 방법\|Electron Browser Window 숨기는 방법]]
-- [[Efforts/Notes/DigitalCraft/전체 화면 드래그 캡처 기능 개선을 위한 Electron 활용\|전체 화면 드래그 캡처 기능 개선을 위한 Electron 활용]]
+- [[Efforts/Notes/DigitalCraft/Modification of Enabling Full Screen Capture through Dragging\|Modification of Enabling Full Screen Capture through Dragging]]
 - [[+ Encounters/Electron - Can't resolve 'path’\|Electron - Can't resolve 'path’]]
-- [[Atlas/Ideas/Electron 윈도우 캡처 방법  애플리케이션이 윈도우로 여겨지는 듯\|Electron 윈도우 캡처 방법  애플리케이션이 윈도우로 여겨지는 듯]]
+- [[Atlas/Ideas/Electron Window Capture Method Making the Application Appear as a Window\|Electron Window Capture Method Making the Application Appear as a Window]]
 - [[Atlas/Sources/web/📎  Electron 애플리케이션의 구조와 동작 원리\|📎  Electron 애플리케이션의 구조와 동작 원리]]
 
 
