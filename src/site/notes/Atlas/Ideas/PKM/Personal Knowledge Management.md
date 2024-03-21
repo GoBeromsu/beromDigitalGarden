@@ -1,5 +1,5 @@
 ---
-{"tags":["MOC","옵시디언"],"aliases":"🧐 PKM,PKM,Second Brain","link":null,"up":null,"index":null,"persona":null,"date_created":"2023-03-07","date_modified":"2023-12-12","dg-publish":true,"permalink":"/atlas/ideas/pkm/personal-knowledge-management/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-17T14:36:40.068+09:00","updated":"2024-03-21T11:24:01.436+09:00"}
+{"tags":["MOC","옵시디언"],"aliases":"🧐 PKM,PKM,Second Brain","link":null,"up":null,"index":null,"persona":null,"date_created":"2023-03-07","date_modified":"2023-12-12","dg-publish":true,"permalink":"/atlas/ideas/pkm/personal-knowledge-management/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-12-17T14:36:40.068+09:00","updated":"2024-03-21T11:38:17.814+09:00"}
 ---
 
 # Personal Knowledge Management
@@ -11,6 +11,9 @@
 - 목적
 	- 산출물을 만드는 것이다
 		- 나의 커리와 학업 과정에서 연결 되는 것들이 조망 될 수 있어야 한다
+- 방법론
+	- [[+ Encounters/상향식 노트 테이킹\|상향식 노트 테이킹]]
+	- [[Atlas/Ideas/PKM/하향식 노트 테이킹\|하향식 노트 테이킹]]
 ## 왜 지식 관리 체계가 필요한가?
 - 정보의 홍수에서 내게 필요한 정보를 빠르고 쉽게 분류 저장 검색 할 수 있는 시스템이 필요하다
 	- 세상에는 정보가 너무 많다, 내게 필요하지 않은 지식 등은 노이즈이다
