@@ -1,12 +1,12 @@
 ---
-{"tags":["네트워크통신","CS/네트워크","CS/네트워크","ta"],"aliases":null,"link":null,"up":"[[2024 데이터 통신 TA]]","persona":"[[🔥 Programming && Develop]]","index":null,"related":null,"date_created":"2024-03-26","date_modified":"2024-03-26","dg-publish":true,"permalink":"/encounters/traceroute/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-03-26T12:27:57.203+09:00","updated":"2024-03-26T12:59:55.419+09:00"}
+{"tags":["네트워크통신","CS/네트워크","CS/네트워크","ta"],"aliases":null,"link":null,"up":"[[2024 데이터 통신 TA]]","persona":"[[🔥 Programming && Develop]]","index":null,"related":null,"date_created":"2024-03-26","date_modified":"2024-03-26","dg-publish":true,"permalink":"/encounters/traceroute/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-03-26T12:27:57.203+09:00","updated":"2024-03-26T13:07:33.303+09:00"}
 ---
 
 # Traceroute 실습 방법
 
 ## 질문
 - trace-route를 하면 거쳐간 라우터들이 나올텐데 평균과 표준 편차를 어떻게 구하는가?
-- trace-route를 하면 응답 시간 만료가 뜨는 라우터가 있느데 왜 그런 것인가?
+- trace-route를 하면 응답 시간 만료가 뜨는 라우터가 있는데 왜 그런 것인가?
 ## 문제
 하루 중 다른 세 번의 시간에 같은 대륙에 있는 출발지와 목적지 사이에서 Trace-route를 실행하라
 
