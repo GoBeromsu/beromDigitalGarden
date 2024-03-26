@@ -1,5 +1,5 @@
 ---
-{"tags":["네트워크통신","CS/네트워크","CS/네트워크","ta"],"aliases":null,"link":null,"up":"[[2024 데이터 통신 TA]]","persona":"[[🔥 Programming && Develop]]","index":null,"related":null,"date_created":"2024-03-26","date_modified":"2024-03-26","dg-publish":true,"permalink":"/encounters/traceroute/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-03-26T12:27:57.203+09:00","updated":"2024-03-26T12:58:00.099+09:00"}
+{"tags":["네트워크통신","CS/네트워크","CS/네트워크","ta"],"aliases":null,"link":null,"up":"[[2024 데이터 통신 TA]]","persona":"[[🔥 Programming && Develop]]","index":null,"related":null,"date_created":"2024-03-26","date_modified":"2024-03-26","dg-publish":true,"permalink":"/encounters/traceroute/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-03-26T12:27:57.203+09:00","updated":"2024-03-26T12:59:55.419+09:00"}
 ---
 
 # Traceroute 실습 방법
@@ -13,7 +13,7 @@
 1. 각 3 번의 시간에 왕복 지연의 평균과 표준 편차를 구하라
 2. 각 3번의 시간 경로상에 있는 라우터를 구하라 경로 변화가 있었는가?
 ## Traceroute 실습 도메인
-네, traceroute 실습을 위해 사용할 수 있는 몇 가지 공개적으로 접근 가능한 대상 주소가 있습니다. 이러한 주소들은 대부분 대학교, 공공 기관, 또는 큰 기업들이 운영하는 서버 주소입니다. 실습 목적으로 이들 주소를 사용할 때는 네트워크 부하를 고려하여 적절한 시간 간격을 두고 실행하는 것이 좋습니다.
+traceroute 실습을 위해 사용할 수 있는 몇 가지 공개적으로 접근 가능한 대상 주소가 있습니다. 이러한 주소들은 대부분 대학교, 공공 기관, 또는 큰 기업들이 운영하는 서버 주소입니다. 실습 목적으로 이들 주소를 사용할 때는 네트워크 부하를 고려하여 적절한 시간 간격을 두고 실행하는 것이 좋습니다.
 
 - 실습용 주소
 	- Google Public DNS: 8.8.8.8 - Google이 제공하는 공개 DNS 서버로, 전 세계 어디서나 접근 가능합니다.
