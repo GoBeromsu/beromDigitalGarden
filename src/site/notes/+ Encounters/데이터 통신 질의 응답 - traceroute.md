@@ -1,7 +1,6 @@
 ---
-{"tags":["네트워크통신","CS/네트워크","CS/네트워크"],"aliases":null,"link":null,"up":"[[2024 데이터 통신 TA]]","persona":"[[🔥 Programming && Develop]]","index":null,"related":null,"date_created":"2024-03-26","date_modified":"2024-03-26","dg-publish":true,"permalink":"/encounters/traceroute/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-03-26T12:27:57.203+09:00","updated":"2024-03-26T12:55:53.946+09:00"}
+{"tags":["네트워크통신","CS/네트워크","CS/네트워크"],"aliases":null,"link":null,"up":"[[2024 데이터 통신 TA]]","persona":"[[🔥 Programming && Develop]]","index":null,"related":null,"date_created":"2024-03-26","date_modified":"2024-03-26","dg-publish":true,"permalink":"/encounters/traceroute/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-03-26T12:27:57.203+09:00","updated":"2024-03-26T12:57:51.253+09:00"}
 ---
-
 
 # Traceroute 실습 방법
 
