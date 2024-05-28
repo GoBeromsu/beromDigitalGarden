@@ -1,5 +1,5 @@
 ---
-{"tags":null,"aliases":null,"link":null,"up":null,"persona":null,"index":null,"date_created":"2024-01-26","date_modified":"2024-01-29","dg-publish":true,"permalink":"/encounters/electron-can-t-resolve-path/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-01-26T17:57:36.007+09:00","updated":"2024-03-16T19:38:31.979+09:00"}
+{"related":null,"tags":[null],"aliases":[null],"link":null,"up":null,"persona":null,"index":null,"date_created":"2024-01-26","date_modified":"2024-04-14","dg-publish":true,"permalink":"/encounters/electron-can-t-resolve-path/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-01-26T17:57:36.007+09:00","updated":"2024-04-14T10:57:14.867+09:00"}
 ---
 
 # Electron - Can't Resolve 'path’
