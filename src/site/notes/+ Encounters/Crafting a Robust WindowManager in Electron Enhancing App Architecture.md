@@ -1,5 +1,5 @@
 ---
-{"tags":null,"aliases":null,"link":null,"up":null,"persona":null,"index":null,"date_created":"2024-02-10","date_modified":"2024-02-13","dg-publish":true,"permalink":"/encounters/crafting-a-robust-window-manager-in-electron-enhancing-app-architecture/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-10T23:36:53.062+09:00","updated":"2024-03-16T19:18:27.815+09:00"}
+{"related":null,"tags":[null],"aliases":[null],"link":null,"up":null,"persona":null,"index":null,"date_created":"2024-02-10","date_modified":"2024-04-14","dg-publish":true,"permalink":"/encounters/crafting-a-robust-window-manager-in-electron-enhancing-app-architecture/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-10T23:36:53.062+09:00","updated":"2024-04-14T10:57:14.827+09:00"}
 ---
 
 # Crafting a Robust WindowManager in Electron: Enhancing App Architecture
