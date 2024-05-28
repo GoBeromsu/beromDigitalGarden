@@ -1,5 +1,5 @@
 ---
-{"tags":["Electron"],"date_created":"2024-02-07","date_modified":"2024-02-07","tistoryBlogName":"berom","tistoryTitle":"Electron으로 다중 모니터 화면 캡처 - 사용자 선택 영역 정확하게 캡처하는 방법","tistoryTags":"개발/Electron","tistoryVisibility":"3","tistoryCategory":"1071006","tistorySkipModal":true,"tistoryPostId":"569","tistoryPostUrl":"https://berom.tistory.com/569","dg-publish":true,"permalink":"/encounters/utilizing-electron-for-precise-multi-monitor-screen-capture-a-guide-to-accurate-user-selection-area-capture/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-07T09:10:30.512+09:00","updated":"2024-03-16T19:25:57.429+09:00"}
+{"aliases":null,"link":null,"up":null,"persona":null,"index":null,"related":null,"tags":["Electron"],"date_created":"2024-02-07","date_modified":"2024-04-14","tistoryBlogName":"berom","tistoryTitle":"Electron으로 다중 모니터 화면 캡처 - 사용자 선택 영역 정확하게 캡처하는 방법","tistoryTags":"개발/Electron","tistoryVisibility":"3","tistoryCategory":"1071006","tistorySkipModal":true,"tistoryPostId":"569","tistoryPostUrl":"https://berom.tistory.com/569","dg-publish":true,"permalink":"/encounters/utilizing-electron-for-precise-multi-monitor-screen-capture-a-guide-to-accurate-user-selection-area-capture/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-07T09:10:30.512+09:00","updated":"2024-04-14T10:57:15.292+09:00"}
 ---
 
 # Electron을 활용한 다중 모니터 화면 캡처 마스터하기
