@@ -1,5 +1,5 @@
 ---
-{"tags":["LLM","ollama"],"aliases":null,"link":null,"index":null,"related":null,"date_created":"2024-04-28","date_modified":"2024-04-28","dg-publish":true,"permalink":"/encounters/running-ollama-in-smart-connections/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-04-28T15:35:41.496+09:00","updated":"2024-04-28T16:48:17.600+09:00"}
+{"up":"[[Ollama]]","tags":["LLM","ollama"],"aliases":null,"link":null,"index":null,"related":null,"date_created":"2024-04-28","date_modified":"2024-05-10","dg-publish":true,"persona":"[[🔥 Programming && Develop]]","permalink":"/encounters/running-ollama-in-smart-connections/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-04-28T15:35:41.496+09:00","updated":"2024-05-11T22:22:08.095+09:00"}
 ---
 
 # Running Ollama in Smart Connections
