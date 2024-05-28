@@ -1,5 +1,5 @@
 ---
-{"tags":["Electron"],"aliases":null,"link":null,"up":null,"persona":null,"index":null,"date_created":"2024-02-08","date_modified":"2024-02-08","dg-publish":true,"permalink":"/encounters/understanding-window-creation-for-each-page-in-electron-react-applications/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-08T10:22:03.955+09:00","updated":"2024-03-16T19:29:23.981+09:00"}
+{"related":null,"tags":["Electron"],"aliases":[null],"link":null,"up":null,"persona":null,"index":null,"date_created":"2024-02-08","date_modified":"2024-04-14","dg-publish":true,"permalink":"/encounters/understanding-window-creation-for-each-page-in-electron-react-applications/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-08T10:22:03.955+09:00","updated":"2024-04-14T10:57:15.284+09:00"}
 ---
 
 # Electron 리액트에서 페이지를 구성 할 때 마다 윈도우를 생성하는게 맞는가
