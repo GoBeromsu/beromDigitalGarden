@@ -1,5 +1,5 @@
 ---
-{"tistoryBlogName":"berom","tistoryTitle":"Electron에서 시스템 클립보드 사용하기","tistoryTags":"electron","tistoryVisibility":"3","tistoryCategory":"1071006","tistorySkipModal":true,"tistoryPostId":"573","tistoryPostUrl":"https://berom.tistory.com/573","tags":["Electron"],"dg-publish":true,"permalink":"/encounters/using-system-clipboard-in-electron-a-guide-from-berom-s-tistory-blog/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-09T14:06:11.074+09:00","updated":"2024-03-16T19:28:24.419+09:00"}
+{"aliases":null,"link":null,"up":null,"persona":null,"index":null,"related":null,"tistoryBlogName":"berom","tistoryTitle":"Electron에서 시스템 클립보드 사용하기","tistoryTags":"electron","tistoryVisibility":"3","tistoryCategory":"1071006","tistorySkipModal":true,"tistoryPostId":"573","tistoryPostUrl":"https://berom.tistory.com/573","tags":["Electron"],"dg-publish":true,"date_created":"2024-02-09","date_modified":"2024-04-14","permalink":"/encounters/using-system-clipboard-in-electron-a-guide-from-berom-s-tistory-blog/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-09T14:06:11.074+09:00","updated":"2024-04-14T10:57:15.286+09:00"}
 ---
 
 # Electron에서 시스템 클립보드 사용하기
