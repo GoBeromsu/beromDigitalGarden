@@ -1,10 +1,10 @@
 ---
-{"tags":null,"aliases":"Upper Camel Case","link":null,"up":null,"persona":null,"index":null,"related":null,"date_created":"2024-03-17","date_modified":"2024-03-17","dg-publish":true,"permalink":"/encounters/pascal-case/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-03-17T14:28:29.232+09:00","updated":"2024-03-17T14:29:26.862+09:00"}
+{"tags":[null],"aliases":["Upper Camel Case"],"link":null,"up":null,"persona":null,"index":null,"related":null,"date_created":"2024-03-17","date_modified":"2024-04-14","dg-publish":true,"permalink":"/encounters/pascal-case/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-03-17T14:28:29.232+09:00","updated":"2024-04-14T10:57:15.156+09:00"}
 ---
 
 # PascalCase
 
-PascalCase, also known as Upper Camel Case, is a naming convention in which the first letter of each word in a compound word is capitalized. 
+PascalCase, also known as Upper Camel Case, is a naming convention in which the first letter of each word in a compound word is capitalized.
 This includes the first letter of the first word, and there are no intervening spaces or punctuation.
 
 Here's an example to illustrate:
