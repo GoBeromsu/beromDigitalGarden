@@ -1,5 +1,5 @@
 ---
-{"tags":["Electron"],"date_created":"2024-02-05","date_modified":"2024-02-05","tistoryBlogName":"berom","tistoryTitle":"Electron에서 TypeScript 경로 별칭 설정하기","tistoryTags":"개발/Electron","tistoryVisibility":"3","tistoryCategory":"1071006","tistorySkipModal":true,"tistoryPostId":"567","tistoryPostUrl":"https://berom.tistory.com/567","dg-publish":true,"up":"[[Modification of Enabling Full Screen Capture through Dragging]]","permalink":"/encounters/electron-type-script/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-05T18:15:58.457+09:00","updated":"2024-03-16T19:38:31.999+09:00"}
+{"aliases":null,"link":null,"persona":null,"index":null,"related":null,"tags":["Electron"],"date_created":"2024-02-05","date_modified":"2024-04-14","tistoryBlogName":"berom","tistoryTitle":"Electron에서 TypeScript 경로 별칭 설정하기","tistoryTags":"개발/Electron","tistoryVisibility":"3","tistoryCategory":"1071006","tistorySkipModal":true,"tistoryPostId":"567","tistoryPostUrl":"https://berom.tistory.com/567","dg-publish":true,"up":"[[Modification of Enabling Full Screen Capture through Dragging]]","permalink":"/encounters/electron-type-script/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-05T18:15:58.457+09:00","updated":"2024-04-14T10:57:14.913+09:00"}
 ---
 
 # Electron에서 TypeScript 경로 별칭 설정하기: `module-alias`를 사용한 실전 가이드
