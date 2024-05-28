@@ -1,5 +1,5 @@
 ---
-{"tags":null,"aliases":null,"link":null,"up":null,"persona":null,"index":null,"date_created":"2024-02-11","date_modified":"2024-02-11","dg-publish":true,"permalink":"/encounters/communicating-between-main-and-renderer-processes-in-electron/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-11T09:17:41.276+09:00","updated":"2024-03-16T19:20:12.252+09:00"}
+{"related":null,"tags":[null],"aliases":[null],"link":null,"up":null,"persona":null,"index":null,"date_created":"2024-02-11","date_modified":"2024-04-14","dg-publish":true,"permalink":"/encounters/communicating-between-main-and-renderer-processes-in-electron/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-11T09:17:41.276+09:00","updated":"2024-04-14T10:57:14.792+09:00"}
 ---
 
 # Communicating Between Main and Renderer Processes in Electron: `mainWindow?.webContents.send(…)` Vs `event.reply(…)`
