@@ -1,5 +1,5 @@
 ---
-{"tags":["Electron"],"date_created":"2024-02-09","date_modified":"2024-02-09","tistoryBlogName":"berom","tistoryTitle":"Electron 컴포넌트 link로 이동 시킨 후 캡처 안되는 이유","tistoryTags":"Electron","tistoryVisibility":"3","tistoryCategory":"1069684","tistorySkipModal":true,"tistoryPostId":"574","tistoryPostUrl":"https://berom.tistory.com/574","dg-publish":true,"permalink":"/encounters/electron-link/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-09T14:09:19.577+09:00","updated":"2024-03-16T19:20:25.245+09:00"}
+{"aliases":null,"link":null,"up":null,"persona":null,"index":null,"related":null,"tags":["Electron"],"date_created":"2024-02-09","date_modified":"2024-04-14","tistoryBlogName":"berom","tistoryTitle":"Electron 컴포넌트 link로 이동 시킨 후 캡처 안되는 이유","tistoryTags":"Electron","tistoryVisibility":"3","tistoryCategory":"1069684","tistorySkipModal":true,"tistoryPostId":"574","tistoryPostUrl":"https://berom.tistory.com/574","dg-publish":true,"permalink":"/encounters/electron-link/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-02-09T14:09:19.577+09:00","updated":"2024-04-14T10:57:14.909+09:00"}
 ---
 
 # 앱 전체를 아우르는 화면 캡처: Recoil 상태 관리의 힘
